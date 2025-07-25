@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Youndry
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -14,7 +14,20 @@
 </a>
 </p>
 
+---
+
+📝 **Blog**  
+- [Youndry's Blog](https://yuanjiemaster.github.io/)
+
+---
+
+🤝 **Let's Connect**  
+- **Gmail**:  doujiangyoutiao202@gmail.com
+
 <!--
+🎯 **Latest Projects**  
+[![项目名](https://github-readme-stats.vercel.app/api/pin/?username=YuanJieMaster&repo=仓库名)](https://github.com/你的用户名/仓库名)  
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
