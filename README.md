@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="centre">
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
   <img align="center"  height='180px'  src="https://github-readme-stats.vercel.app/api?username=YuanJieMaster&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
