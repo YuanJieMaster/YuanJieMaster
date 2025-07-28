@@ -14,15 +14,13 @@
 </a>
 </p>
 
----
-
-📝 **Blog**  
+## 📝 **Blog**  
 - [Youndry's Blog](https://yuanjiemaster.github.io/)
 
----
 
-🤝 **Let's Connect**  
+## 🤝 **Let's Connect**  
 - **Gmail**:  doujiangyoutiao202@gmail.com
+
 
 <!--
 🎯 **Latest Projects**  
