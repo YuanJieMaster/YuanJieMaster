@@ -9,7 +9,7 @@
 
 <a href="https://github.com/anuraghazra/convoychat">
   <picture>
-  <img align="center"  height='180px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanJieMaster&theme=radical&layout=compact&hide=html,css" />
+  <img align="center"  height='180px'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanJieMaster&theme=radical&layout=compact&hide=css,html" />
   </picture>
 </a>
 </p>
